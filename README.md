@@ -70,19 +70,19 @@
 <!--start of Connect with me -->
 <h2 id="connect-with-me">Connect with me</h2>
 <div align="center">
-<a href="https://github.com/lavkush-maurya" target="_blank">
+<a href="https://github.com/jayparkhiya" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a>
 <a href="https://twitter.com/lavvkushh" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
 </a>
-<a href="https://linkedin.com/in/lavkush2001" target="_blank">
+<a href="https://linkedin.com/in/jayparkhiya" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
-<a href="https://www.facebook.com/lavvkushh" target="_blank">
+<a href="https://www.facebook.com/jay.parkhiya.92" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="facebook" style="margin-bottom: 5px;">
 </a>
-<a href="https://instagram.com/lavvkushh" target="_blank">
+<a href="https://instagram.com/jay_parkhiya_8102" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="instagram" style="margin-bottom: 5px;">
 </a>  
 </div>
@@ -92,14 +92,14 @@
 <h2 id="github-stats">Github Stats</h2>
 
 <table><tbody><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=lavkush-maurya&show_icons=true&theme=radical" align="left" style="width: 100%">
+<img src="https://github-readme-stats.vercel.app/api?username=jayparkhiya&show_icons=true&theme=radical" align="left" style="width: 100%">
  </td></tr>
 </tbody></table>
 <!--end of stats -->
 
 
 <!--
-**lavkush-maurya/lavkush-maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jayparkhiya/jayparkhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
