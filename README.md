@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi Geeks 👋 </h1>
 
-![](https://komarev.com/ghpvc/?username=lavkush-maurya&color=dc143c)
+![](https://komarev.com/ghpvc/?username=jayparkhiya&color=dc143c)
 </div>
 
 
