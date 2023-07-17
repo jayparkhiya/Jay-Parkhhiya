@@ -9,7 +9,7 @@
 <table border="0">
   <tr border="0">
     <td border="0">
-      <p> I am a highly skilled professional Web Developer with an overall relevant experience of 3 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like <b>Gatsby</b> and <b>Next-Js</b>.</p>
+      <p> I am a highly skilled professional Web Developer with an overall relevant experience of 2 years. I love to take on challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience in building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks like <b>Gatsby</b> and <b>Next-Js</b>.</p>
     </td>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px"/></td>
   </tr>
@@ -73,7 +73,7 @@
 <a href="https://github.com/jayparkhiya" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a>
-<a href="https://twitter.com/lavvkushh" target="_blank">
+<a href="https://twitter.com/Parkhiyajay" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
 </a>
 <a href="https://linkedin.com/in/jayparkhiya" target="_blank">
